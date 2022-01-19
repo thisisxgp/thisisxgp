@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### How to Reach Me?
+
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xavigpich)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xgpich/)
+[![Website](https://img.shields.io/badge/-YOUTUBE-0077B5?style=for-the-badge&logo=jekyll&logoColor=white)](https://google.com/c/CuriousCodingYT)
