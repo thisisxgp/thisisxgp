@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=thisisxgp.thisisxgp)
 
-
+#### Summary
 - 💼 I work as a Security Engineer in a Threat Response team building and operating a SIEM platform
 - 💻 I have a mixed background on Telecommunications, Machine Learning and Data Analysis
 - 📚 I am currently learning Go
@@ -12,7 +12,7 @@
 #### Tech Stack & Tools
 <img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/elastic-2CBCB0?style=for-the-badge&logo=elastic&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/puppet-%fca815.svg?style=for-the-badge&logo=puppet&logoColor=white"/>
 
-#### About me
+#### Fun facts
 - 🥁 I played the drums for +10 years back in the days!
 - 🌍 I'd love to travel around the globe and beyond
 - 🍜 Favorite food is Ramen
