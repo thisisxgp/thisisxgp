@@ -1,6 +1,6 @@
 ### Hi there, I'm Xavi! 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=thisisxgp.thisisxgp) [![Github](https://img.shields.io/github/followers/thisisxgp?label=Followers&logo=Github)](https://github.com/thisisxgp)
+![](https://visitor-badge.laobi.icu/badge?page_id=thisisxgp.thisisxgp)
 
 
 - 💼 I work as a Security Engineer in a Threat Response team building and operating a SIEM platform
