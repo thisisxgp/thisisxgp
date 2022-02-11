@@ -1,6 +1,7 @@
 ### Hi there, I'm Xavi! 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=thisisxgp.thisisxgp)
+![](https://visitor-badge.laobi.icu/badge?page_id=thisisxgp.thisisxgp&left_text=GitHub%20Visitors)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCfN908-BJ5xTCLGhJJpOJcA?label=Total%20Views&logo=youtube&style=flat-square)
 
 #### Summary
 - 💼 I work as a Security Engineer in a Threat Response team building and operating a SIEM platform
@@ -24,8 +25,11 @@
 
 
 
-#### How to Reach Me?
+#### Contact Me
 
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xavigpich)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xgpich/)
-[![Website](https://img.shields.io/badge/-YOUTUBE-0077B5?style=for-the-badge&logo=youtube&logoColor=white)](https://google.com/c/CuriousCoding)
+
+#### Support Me
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfN908-BJ5xTCLGhJJpOJcA?color-red&label=SUBSCRIBE&logo=youtube&style=for-the-badge)
