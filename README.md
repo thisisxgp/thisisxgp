@@ -16,6 +16,7 @@
 #### Certifications
 <a href="https://www.credly.com/badges/f0f9ad31-dea5-4d2a-a9bc-47422059642f/public_url" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5UHnqYlzTotFcPxBzZ8AGSPIf0IngMef2_kUGTuJXJJd30etlkkIAkcTyJY0o_octnY&usqp=CAU" class="cert" alt='CNCF CKA' width="80px"></a>
 <a href="https://www.credly.com/badges/5699939a-c6c3-41fb-bbd6-bb4c08e71d39/public_url" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTIrfcfUA0_XHft8P2nERfVdK72b8odMokUi6w0CCfU8G0P-lSm_itC_Y_KB7u3wwN34&usqp=CAU" class="cert" alt='CNCF CKS' width="80px"></a>
+<a href="https://www.credential.net/adda9b2a-69d3-4695-8ba4-71ba56596d3d" target="_blank"><img src="https://d1fdloi71mui9q.cloudfront.net/pQYCxaETw27XCQmFeLx3_undefined" class="cert" alt='Google Cloud Associate Cloud Engineer' width="80px"></a>
 
 
 
