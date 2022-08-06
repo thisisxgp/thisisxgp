@@ -8,9 +8,7 @@
 
 #### Fun facts
 - 🥁 I play the drums since I was 12!
-- 🌍 I'd love to travel around the globe and beyond
 - 🍜 Favorite cuisine is Thai and Indian
-- 🏂 I like practicing all kind of sports from soccer, bouldering to snowboarding
 - 🎥 I like giving back to the community. I started my [CuriousCodingYT](https://youtube.com/c/CuriousCoding) project during the pandemic in 2020 where I share programming tutorials for everyone to get on the Tech train!
 
 #### Certifications
