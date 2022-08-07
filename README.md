@@ -10,9 +10,9 @@ Hello, I'm Xavier (Xavi for short), a Security Engineer living in sunny Barcelon
 I like giving back to the community. During the 2020 Pandemic, I started my [CuriousCodingYT](https://youtube.com/c/CuriousCoding) little project where I share programming tutorials for everyone to get on the Tech train! 
 
 #### Fun facts
-- 🥁 I play the drums since I was 12!
-- 🍜 Favorite cuisine is Thai and Indian
 - 🦠 I got surgery for Peritonitis when I was 16 - I thought it was due to a bad sandwitch!
+- 🥁 I play the drums since I was 12
+- 🍜 Favorite cuisine is Thai and Indian
 
 ### Tech Stack & Tools
 <img src="https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/bash-red?style=for-the-badge&logo=gnubash&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/golang-6AD5E3?style=for-the-badge&logo=go&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/elastic-2CBCB0?style=for-the-badge&logo=elastic&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GCP-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/vault-1f1f1f.svg?style=for-the-badge&logo=vault"/>&nbsp;<img src="https://img.shields.io/badge/packer-63d0ff.svg?style=for-the-badge&logo=packer&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/puppet-fca815.svg?style=for-the-badge&logo=puppet&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/prometheus-ce3f3c.svg?style=for-the-badge&logo=Prometheus&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Grafana-f57c2e.svg?style=for-the-badge&logo=Grafana&logoColor=white"/>
