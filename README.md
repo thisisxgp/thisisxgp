@@ -7,7 +7,7 @@
 ### About Me 
 Hello, I'm Xavi (short of Xavier), a Security Engineer currently based in Barcelona! I'm focused in DevSecOps and shifting Security left in the application lifecycle. I'm interested in automation & cloud-native technologies! 
 
-I like giving back to the community. During the 2020 Pandemic, I started my [CuriousCodingYT](https://youtube.com/c/CuriousCoding) little project where I share programming tutorials for everyone to get on the Tech train! 
+I like giving back to the community. During the 2020 Pandemic, I started my [CuriousCoding](https://youtube.com/c/CuriousCoding) YouTube little project where I share programming tutorials for everyone to get on the Tech train! 
 
 #### Fun facts
 - 🦠 I got surgery for Peritonitis when I was 16 - I thought it was due to a bad sandwitch!
