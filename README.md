@@ -10,7 +10,7 @@ Hello, I'm Xavi (short of Xavier), a Security Engineer currently based in Barcel
 I like giving back to the community. During the 2020 Pandemic, I started my [CuriousCoding](https://youtube.com/c/CuriousCoding) YouTube little project where I share programming tutorials for everyone to get on the Tech train! 
 
 #### Fun facts
-- 🦠 I got surgery for Peritonitis when I was 16 - I thought it was due to a bad sandwitch!
+- 🦠 I got surgery for Peritonitis when I was 16 - I thought it was due to a bad sandwich!
 - 🥁 I play the drums since I was 12
 - 🍜 Favorite cuisine is Thai and Indian
 
