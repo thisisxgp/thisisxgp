@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xgpich/)
 
 ### About Me 
-Hello, I'm Xavi (short of Xavier), a Security Engineer currently based in Barcelona! I'm focused in DevSecOps and shifting Security left in the application lifecycle. I'm interested in automation & cloud-native technologies! 
+Hello, I'm Xavi (short of Xavier), a Security Engineer currently based in Barcelona! I'm focused in DevSecOps and shifting Security left in the software development application lifecycle (SDLC). I'm interested in automation & cloud-native technologies! 
 
 I like giving back to the community. During the 2020 Pandemic, I started my [CuriousCoding](https://youtube.com/c/CuriousCoding) YouTube little project where I share programming tutorials for everyone to get on the Tech train! 
 
